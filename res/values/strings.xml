@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">Open Door</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_change_ip">Change IP Address</string>
+    <string name="enter_message">Enter Message</string>
+    <string name="change">Change</string>
+    <string name="cancel">Cancel</string>
+    <string name="open_door">Open Door</string>
+    <string name="set_message">Set Message</string>
+    <string name="set">Set</string>
+    <string name="rainbow">Rainbow</string>
+    <string name="rainbowCycle">Rainbow Cycle</string>
+    <string name="clear_colors">Clear Colors</string>
+    <string name="toggle_looking">Toggle Looking Mode</string>
+    <string name="label_wifi_receiver">WiFi Receiver</string>
+
+</resources>

@@ -1,0 +1,68 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/btn_openDoor"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="12dp"
+            android:text="@string/open_door"
+            tools:context=".PreferencesActivity" />
+
+        <!-- <Button
+            android:id="@+id/btn_setMessage"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="12dp"
+            android:text="@string/set_message"
+            tools:context=".PreferencesActivity" />
+
+        <Button
+            android:id="@+id/btn_rainbow"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="12dp"
+            android:text="@string/rainbow"
+            tools:context=".PreferencesActivity" />
+
+        <Button
+            android:id="@+id/btn_rainbowCycle"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="12dp"
+            android:text="@string/rainbowCycle"
+            tools:context=".PreferencesActivity" />
+
+        <Button
+            android:id="@+id/btn_clearColors"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="12dp"
+            android:text="@string/clear_colors"
+            tools:context=".PreferencesActivity" />
+
+        <Button
+            android:id="@+id/btn_toggleLooking"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="12dp"
+            android:text="@string/toggle_looking"
+            tools:context=".PreferencesActivity" />
+             -->
+    </LinearLayout>
+
+</ScrollView>
